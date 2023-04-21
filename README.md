@@ -7,6 +7,6 @@
 
 * [Receita 01](https://zapp.run/edit/receita-1-z4eu06ip4ev0?entry=lib/main.dart&file=lib/main.dart)<br>
 ```
-OBS.: Não soube como fazer o DataTable cobrir todo o width do aplicativo, então ajustei a tela para 415px e o columnSpacing para 100. 
+OBS.: Não soube como fazer o DataTable se ajustar automaticamente ao width do aplicativo.
 ```
 * [Receita 02]()
