@@ -9,4 +9,8 @@
 ```
 OBS.: Não soube como fazer o DataTable se ajustar automaticamente ao width do aplicativo.
 ```
-* [Receita 02]()
+* [Receita 02](https://zapp.run/edit/flutter-zg3k069eg3l0?entry=lib/main.dart&file=lib/main.dart)<br>
+```
+OBS.: Falta fazer o passo 4(Desafio)
+```
+* [Receita 03]()
