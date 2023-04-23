@@ -14,3 +14,20 @@ OBS.: Não soube como fazer o DataTable se ajustar automaticamente ao width do a
 OBS.: Falta fazer o passo 4(Desafio)
 ```
 * [Receita 03]()
+```
+NOT UPLOADED YET
+```
+* [Receita 04]()
+```
+NOT UPLOADED YET
+```
+
+* [Receita 05]()
+```
+NOT UPLOADED YET
+```
+
+* [Receita 06]()
+```
+NOT UPLOADED YET
+```
