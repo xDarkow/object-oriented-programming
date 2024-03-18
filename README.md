@@ -18,17 +18,3 @@ NOT UPLOADED YET
 ```
 NOT UPLOADED YET
 ```
-* [Receita 04]()
-```
-NOT UPLOADED YET
-```
-
-* [Receita 05]()
-```
-NOT UPLOADED YET
-```
-
-* [Receita 06]()
-```
-NOT UPLOADED YET
-```
