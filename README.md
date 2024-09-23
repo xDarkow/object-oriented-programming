@@ -7,7 +7,7 @@
 
 * [Receita 01](https://zapp.run/edit/receita-01-zvh606puvh70)<br>
 ```
-Receita 01 com exercícios 01 até 08
+Receita 01 com exercícios 01 até 09
 ```
 * [Receita 02]()
 ```
