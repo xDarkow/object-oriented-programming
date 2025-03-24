@@ -7,11 +7,11 @@
 
 * [Receita 01](https://zapp.run/edit/receita-01-zvh606puvh70)<br>
 ```
-Receita 01 com exercícios 01 até 09
+Receita 01 com exercícios 01 até 09.
 ```
-* [Receita 02]()
+* [Receita 02](https://zapp.run/edit/receita-02-zf1a806mkf1a9?entry=lib/main.dart&file=lib/main.dart)<br>
 ```
-NOT UPLOADED YET
+Receita 02 com exercícios e desafio.
 ```
 * [Receita 03]()
 ```
